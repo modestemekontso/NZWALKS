@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\FormationNetcore\\NZWalks\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0C47C605-6E69-442E-8500-2709531C8E80}|NZWalks\\NZWalk.csproj|c:\\formationnetcore\\nzwalks\\nzwalks\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0C47C605-6E69-442E-8500-2709531C8E80}|NZWalks\\NZWalk.csproj|solutionrelative:nzwalks\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C47C605-6E69-442E-8500-2709531C8E80}|NZWalks\\NZWalk.csproj|c:\\formationnetcore\\nzwalks\\nzwalks\\controllers\\walkscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C47C605-6E69-442E-8500-2709531C8E80}|NZWalks\\NZWalk.csproj|solutionrelative:nzwalks\\controllers\\walkscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C47C605-6E69-442E-8500-2709531C8E80}|NZWalks\\NZWalk.csproj|c:\\formationnetcore\\nzwalks\\nzwalks\\controllers\\regionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C47C605-6E69-442E-8500-2709531C8E80}|NZWalks\\NZWalk.csproj|solutionrelative:nzwalks\\controllers\\regionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C47C605-6E69-442E-8500-2709531C8E80}|NZWalks\\NZWalk.csproj|c:\\formationnetcore\\nzwalks\\nzwalks\\repositories\\iwalkrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C47C605-6E69-442E-8500-2709531C8E80}|NZWalks\\NZWalk.csproj|solutionrelative:nzwalks\\repositories\\iwalkrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C47C605-6E69-442E-8500-2709531C8E80}|NZWalks\\NZWalk.csproj|c:\\formationnetcore\\nzwalks\\nzwalks\\repositories\\sqlregionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C47C605-6E69-442E-8500-2709531C8E80}|NZWalks\\NZWalk.csproj|solutionrelative:nzwalks\\repositories\\sqlregionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C47C605-6E69-442E-8500-2709531C8E80}|NZWalks\\NZWalk.csproj|c:\\formationnetcore\\nzwalks\\nzwalks\\model\\domain\\difficulty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C47C605-6E69-442E-8500-2709531C8E80}|NZWalks\\NZWalk.csproj|solutionrelative:nzwalks\\model\\domain\\difficulty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C47C605-6E69-442E-8500-2709531C8E80}|NZWalks\\NZWalk.csproj|c:\\formationnetcore\\nzwalks\\nzwalks\\mapping\\automapperprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C47C605-6E69-442E-8500-2709531C8E80}|NZWalks\\NZWalk.csproj|solutionrelative:nzwalks\\mapping\\automapperprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C47C605-6E69-442E-8500-2709531C8E80}|NZWalks\\NZWalk.csproj|c:\\formationnetcore\\nzwalks\\nzwalks\\model\\updateregionrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C47C605-6E69-442E-8500-2709531C8E80}|NZWalks\\NZWalk.csproj|solutionrelative:nzwalks\\model\\updateregionrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C47C605-6E69-442E-8500-2709531C8E80}|NZWalks\\NZWalk.csproj|c:\\formationnetcore\\nzwalks\\nzwalks\\model\\walkdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C47C605-6E69-442E-8500-2709531C8E80}|NZWalks\\NZWalk.csproj|solutionrelative:nzwalks\\model\\walkdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C47C605-6E69-442E-8500-2709531C8E80}|NZWalks\\NZWalk.csproj|c:\\formationnetcore\\nzwalks\\nzwalks\\model\\difficultydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C47C605-6E69-442E-8500-2709531C8E80}|NZWalks\\NZWalk.csproj|solutionrelative:nzwalks\\model\\difficultydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C47C605-6E69-442E-8500-2709531C8E80}|NZWalks\\NZWalk.csproj|c:\\formationnetcore\\nzwalks\\nzwalks\\data\\nzwalksdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C47C605-6E69-442E-8500-2709531C8E80}|NZWalks\\NZWalk.csproj|solutionrelative:nzwalks\\data\\nzwalksdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\FormationNetcore\\NZWalks\\NZWalks\\appsettings.json",
+              "RelativeDocumentMoniker": "NZWalks\\appsettings.json",
+              "ToolTip": "C:\\FormationNetcore\\NZWalks\\NZWalks\\appsettings.json",
+              "RelativeToolTip": "NZWalks\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-22T16:34:43.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RegionsController.cs",
+              "DocumentMoniker": "C:\\FormationNetcore\\NZWalks\\NZWalks\\Controllers\\RegionsController.cs",
+              "RelativeDocumentMoniker": "NZWalks\\Controllers\\RegionsController.cs",
+              "ToolTip": "C:\\FormationNetcore\\NZWalks\\NZWalks\\Controllers\\RegionsController.cs",
+              "RelativeToolTip": "NZWalks\\Controllers\\RegionsController.cs",
+              "ViewState": "AgIAAHcAAAAAAAAAAAAIwI8AAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T00:30:33.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WalksController.cs",
+              "DocumentMoniker": "C:\\FormationNetcore\\NZWalks\\NZWalks\\Controllers\\WalksController.cs",
+              "RelativeDocumentMoniker": "NZWalks\\Controllers\\WalksController.cs",
+              "ToolTip": "C:\\FormationNetcore\\NZWalks\\NZWalks\\Controllers\\WalksController.cs",
+              "RelativeToolTip": "NZWalks\\Controllers\\WalksController.cs",
+              "ViewState": "AgIAAIAAAAAAAAAAAAAIwIYAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T19:49:37.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AutoMapperProfiles.cs",
+              "DocumentMoniker": "C:\\FormationNetcore\\NZWalks\\NZWalks\\Mapping\\AutoMapperProfiles.cs",
+              "RelativeDocumentMoniker": "NZWalks\\Mapping\\AutoMapperProfiles.cs",
+              "ToolTip": "C:\\FormationNetcore\\NZWalks\\NZWalks\\Mapping\\AutoMapperProfiles.cs",
+              "RelativeToolTip": "NZWalks\\Mapping\\AutoMapperProfiles.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T21:08:56.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IWalkRepository.cs",
+              "DocumentMoniker": "C:\\FormationNetcore\\NZWalks\\NZWalks\\Repositories\\IWalkRepository.cs",
+              "RelativeDocumentMoniker": "NZWalks\\Repositories\\IWalkRepository.cs",
+              "ToolTip": "C:\\FormationNetcore\\NZWalks\\NZWalks\\Repositories\\IWalkRepository.cs",
+              "RelativeToolTip": "NZWalks\\Repositories\\IWalkRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T19:50:24.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Difficulty.cs",
+              "DocumentMoniker": "C:\\FormationNetcore\\NZWalks\\NZWalks\\Model\\Domain\\Difficulty.cs",
+              "RelativeDocumentMoniker": "NZWalks\\Model\\Domain\\Difficulty.cs",
+              "ToolTip": "C:\\FormationNetcore\\NZWalks\\NZWalks\\Model\\Domain\\Difficulty.cs",
+              "RelativeToolTip": "NZWalks\\Model\\Domain\\Difficulty.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T22:06:44.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SQLRegionRepository.cs",
+              "DocumentMoniker": "C:\\FormationNetcore\\NZWalks\\NZWalks\\Repositories\\SQLRegionRepository.cs",
+              "RelativeDocumentMoniker": "NZWalks\\Repositories\\SQLRegionRepository.cs",
+              "ToolTip": "C:\\FormationNetcore\\NZWalks\\NZWalks\\Repositories\\SQLRegionRepository.cs",
+              "RelativeToolTip": "NZWalks\\Repositories\\SQLRegionRepository.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowBcAAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T21:37:48.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UpdateRegionRequestDto.cs",
+              "DocumentMoniker": "C:\\FormationNetcore\\NZWalks\\NZWalks\\Model\\UpdateRegionRequestDto.cs",
+              "RelativeDocumentMoniker": "NZWalks\\Model\\UpdateRegionRequestDto.cs",
+              "ToolTip": "C:\\FormationNetcore\\NZWalks\\NZWalks\\Model\\UpdateRegionRequestDto.cs",
+              "RelativeToolTip": "NZWalks\\Model\\UpdateRegionRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T21:43:29.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DifficultyDto.cs",
+              "DocumentMoniker": "C:\\FormationNetcore\\NZWalks\\NZWalks\\Model\\DifficultyDto.cs",
+              "RelativeDocumentMoniker": "NZWalks\\Model\\DifficultyDto.cs",
+              "ToolTip": "C:\\FormationNetcore\\NZWalks\\NZWalks\\Model\\DifficultyDto.cs",
+              "RelativeToolTip": "NZWalks\\Model\\DifficultyDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T21:07:39.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "WalkDto.cs",
+              "DocumentMoniker": "C:\\FormationNetcore\\NZWalks\\NZWalks\\Model\\WalkDto.cs",
+              "RelativeDocumentMoniker": "NZWalks\\Model\\WalkDto.cs",
+              "ToolTip": "C:\\FormationNetcore\\NZWalks\\NZWalks\\Model\\WalkDto.cs",
+              "RelativeToolTip": "NZWalks\\Model\\WalkDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T21:05:40.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "NZWalksDbContext.cs",
+              "DocumentMoniker": "C:\\FormationNetcore\\NZWalks\\NZWalks\\Data\\NZWalksDbContext.cs",
+              "RelativeDocumentMoniker": "NZWalks\\Data\\NZWalksDbContext.cs",
+              "ToolTip": "C:\\FormationNetcore\\NZWalks\\NZWalks\\Data\\NZWalksDbContext.cs",
+              "RelativeToolTip": "NZWalks\\Data\\NZWalksDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T17:25:49.314Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
